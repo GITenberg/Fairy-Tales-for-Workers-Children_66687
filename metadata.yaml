@@ -9,12 +9,17 @@ contributor:
     agent_name: Dailes, Ida
     gutenberg_agent_id: '53916'
     url: http://www.gutenberg.org/2009/agents/53916
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mühlen, Herminia zur
     gutenberg_agent_id: '53915'
     url: http://www.gutenberg.org/2009/agents/53915
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66687#Fairy-Tales-for-Workers-Children
 gutenberg_issued: '2021-11-07'
 identifiers:
   gutenberg: '66687'
